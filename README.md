@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=YC-1412&count_private=true&theme=react"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YC-1412&theme=react"></td>
+  </tr>
+</table> 
+
 <!--
 Backup
 <table cellspacing="0" cellpadding="0">
@@ -25,18 +32,13 @@ Backup
 
 <table cellspacing="0" cellpadding="0">
   <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=YC-1412&count_private=true&theme=react"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YC-1412&theme=react"></td>
-  </tr>
-</table>  
--->
-
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
     <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=YC-1412&count_private=true&theme=great-gatsby"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=YC-1412&theme=great-gatsby"></td>
   </tr>
 </table>  
+-->
+
+
 
 <!--
 To be added
