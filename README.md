@@ -1,4 +1,6 @@
-### Hi there 👋  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=YC-1412.visitor-badge">
+### Hi there 👋  
+![](https://komarev.com/ghpvc/?username=YC-1412)
+
 <!--
 **YC-1412/YC-1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
